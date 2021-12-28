@@ -1,0 +1,274 @@
+body{
+  margin-top:40px;
+  background-color: #fff;
+
+}
+a{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  line-height: 24px;
+  color:#0160FE;
+  text-decoration: none;
+
+}
+
+.heading-div{
+  position:fixed;
+  display:inline-block;
+
+}
+.wickret{
+  margin-left:10px;
+  margin-right: 500px;
+  padding:20px;
+  font-size: 29px;
+}
+.others{
+  margin-left:40px;
+  padding:100px 25px 0 25px
+
+}
+#home{
+  padding-bottom: 100px;
+}
+.first-div{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 62px;
+  padding-top: 50px;
+  line-height: 10px;
+  color: #04009A;
+
+
+
+}
+.image1{
+  width:50%;
+
+}
+#new-money{
+  padding-top: 300px;
+  padding-bottom: 300px;
+  background-color: #FDF0E5;
+
+}
+
+.money{
+  text-align: center;
+
+
+}
+.fee{
+  font-size: 60px;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 10px;
+  color: #04009A;
+}
+.fee-free{
+
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+  color:#0160FE;
+
+
+}
+.slider{
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Benefits */
+#benefits{
+  text-align: center;
+  color:#04009A;
+  line-height: 10px;
+  padding-top: 50px;
+  font-size: 30px;
+
+}
+.ben{
+  padding-top: 160px;
+}
+
+#paid{
+  padding-top: 200px;
+  padding-bottom: 90px;
+}
+
+.row {
+    display: inline-flex;
+
+
+  }
+.img2{
+  width:60%;
+  padding-left: 100px;
+  margin-left:100px;
+}
+
+.text{
+
+  margin-right: 1px;
+  padding-right: 200px;
+  font-family: 'Montserrat', sans-serif;
+  color: #04009A;
+  font-size: 27px;
+  line-height: 35px;
+
+}
+.hone{
+  padding-top: 70px;
+  font-weight: 600;
+
+
+}
+.hthree{
+  margin-top: -20px;
+  font-weight: 300;
+
+}
+
+.download-button{
+  padding:5px 20px 5px 20px;
+  margin-top: 20px;
+
+}
+
+#customer-service{
+  padding-top: 270px;
+  background-color:#F5FFFA;
+  padding-bottom: 150px;
+}
+
+.terms{
+  text-align: center;
+  font-size: 40px;
+  color: #04009A;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  margin: auto 300px auto 300px;
+  padding-bottom: 270px;
+
+
+}
+
+.img4{
+  width:60%;
+}
+.img-div4{
+  text-align: center;
+}
+
+.text-div4{
+  text-align: left;
+
+  font-size: 25px;
+  color: #0160FE;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  padding-right: 99px;
+}
+
+.first-h2, .second-h2{
+  padding-bottom: 10px;
+}
+
+#security{
+  padding-top: 250px;
+  padding-bottom: 250px;
+
+}
+
+.securitty{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #2128BD;
+  font-weight: 600;
+  font-size: 92px;
+  padding-bottom: 230px;
+
+}
+.explanations{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+  color:#0160FE;
+}
+.explain1{
+  text-align: left;
+  margin-left: 32px;
+  padding-left: 140px;
+  padding-right: 40px;
+}
+.explain2{
+  text-align: left;
+  padding-left: 40px;
+  padding-right: 140px;
+  margin-right: 20px;
+
+}
+#Powerful{
+  background-color:#FDF0E5;
+  text-align: center;
+  padding-top: 300px;
+  padding-bottom: 250px;
+  color: #2128BD;
+  font-size: 40px;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.power{
+  padding-left: 160px;
+  padding-right: 160px;
+}
+.seven{
+  width:90%;
+}
+.image7{
+  margin-top: 40px;
+  margin-left:30px;
+
+
+}
+.account{
+  text-align: left;
+  margin-left: 200px;
+  color: #2128BD;
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+  padding-right: 100px;
+
+}
+#borderless{
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+
+.gth {
+  padding-top: 4px;
+  padding-bottom: 6px;
+}
+#download{
+  background-color: #ECF1FD;
+  padding-top: 250px;
+  padding-bottom: 350px;
+}
+
+.front-text{
+  text-align: center;
+  font-size: 56px;
+  font-family: 'Montserrat', sans-serif;
+  color: #2128BD;
+
+}
+.buttons{
+  text-align: center;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+
+.title:hover{
+  color:#FFBD35;
+}
